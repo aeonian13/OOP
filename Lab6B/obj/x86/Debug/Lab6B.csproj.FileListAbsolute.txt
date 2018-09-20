@@ -1,0 +1,6 @@
+C:\Users\Angelina\Desktop\210\Lab6B\obj\x86\Debug\Lab6B.csprojAssemblyReference.cache
+C:\Users\Angelina\Desktop\210\Lab6B\obj\x86\Debug\Lab6B.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\Desktop\210\Lab6B\bin\Debug\ConsoleApplication.exe
+C:\Users\Angelina\Desktop\210\Lab6B\bin\Debug\ConsoleApplication.pdb
+C:\Users\Angelina\Desktop\210\Lab6B\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Angelina\Desktop\210\Lab6B\obj\x86\Debug\ConsoleApplication.pdb

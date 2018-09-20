@@ -1,0 +1,7 @@
+C:\Users\Angelina\Desktop\Programming Fundamentals\Lab 20\Lab 20\Lab 20\obj\Debug\Lab 20.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\Desktop\Programming Fundamentals\Lab 20\Lab 20\Lab 20\bin\Debug\Lab 20.exe.config
+C:\Users\Angelina\Desktop\Programming Fundamentals\Lab 20\Lab 20\Lab 20\bin\Debug\Lab 20.exe
+C:\Users\Angelina\Desktop\Programming Fundamentals\Lab 20\Lab 20\Lab 20\bin\Debug\Lab 20.pdb
+C:\Users\Angelina\Desktop\Programming Fundamentals\Lab 20\Lab 20\Lab 20\obj\Debug\Lab 20.exe
+C:\Users\Angelina\Desktop\Programming Fundamentals\Lab 20\Lab 20\Lab 20\obj\Debug\Lab 20.pdb
+C:\Users\Angelina\Desktop\Programming Fundamentals\Lab 20\Lab 20\Lab 20\obj\Debug\Lab 20.csprojResolveAssemblyReference.cache
